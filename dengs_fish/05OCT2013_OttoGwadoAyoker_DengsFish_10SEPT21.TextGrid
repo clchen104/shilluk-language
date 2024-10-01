@@ -1,0 +1,2272 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 103.80666666666667 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "phon" 
+        xmin = 0 
+        xmax = 103.80666666666667 
+        intervals: size = 211 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.561791832414338 
+            text = "" 
+        intervals [2]:
+            xmin = 4.561791832414338 
+            xmax = 5.130022963935725 
+            text = "a\'^ca\`^aar\ct\`^ " 
+        intervals [3]:
+            xmin = 5.130022963935725 
+            xmax = 5.335281891457929 
+            text = "pa\v^aa" 
+        intervals [4]:
+            xmin = 5.335281891457929 
+            xmax = 5.520482943326498 
+            text = "ja\^^\'^a\-^" 
+        intervals [5]:
+            xmin = 5.520482943326498 
+            xmax = 6.042056980486039 
+            text = "d\ef\v^\ef\ef\ng" 
+        intervals [6]:
+            xmin = 6.042056980486039 
+            xmax = 6.223871280200925 
+            text = "ba\v^a" 
+        intervals [7]:
+            xmin = 6.223871280200925 
+            xmax = 6.448523687625016 
+            text = "pa\^^ac" 
+        intervals [8]:
+            xmin = 6.448523687625016 
+            xmax = 6.85501504680178 
+            text = "m\ef\'^-dw\ct\^^\'^\ct\ng" 
+        intervals [9]:
+            xmin = 6.85501504680178 
+            xmax = 6.91664645670075 
+            text = "\hs\`^" 
+        intervals [10]:
+            xmin = 6.91664645670075 
+            xmax = 7.08592183919392 
+            text = "ba\v^a" 
+        intervals [11]:
+            xmin = 7.08592183919392 
+            xmax = 7.295948702657668 
+            text = "pa\^^ac" 
+        intervals [12]:
+            xmin = 7.295948702657668 
+            xmax = 8.019766085801976 
+            text = "m\ef\'^-d\ct\'^\ct\ctc\`^" 
+        intervals [13]:
+            xmin = 8.019766085801976 
+            xmax = 9.405544562507686 
+            text = "" 
+        intervals [14]:
+            xmin = 9.405544562507686 
+            xmax = 9.496660863892094 
+            text = "\hs\`^" 
+        intervals [15]:
+            xmin = 9.496660863892094 
+            xmax = 9.779571354527132 
+            text = "m\ef\'^n-a\-^a" 
+        intervals [16]:
+            xmin = 9.779571354527132 
+            xmax = 10.145991568301424 
+            text = "d\ef\-^\ef\ng" 
+        intervals [17]:
+            xmin = 10.145991568301424 
+            xmax = 10.78168803219822 
+            text = "k\ic\'^-r\ef\-^\ef" 
+        intervals [18]:
+            xmin = 10.78168803219822 
+            xmax = 11.363699674076916 
+            text = "" 
+        intervals [19]:
+            xmin = 11.363699674076916 
+            xmax = 11.551170481124228 
+            text = "ba\v^a" 
+        intervals [20]:
+            xmin = 11.551170481124228 
+            xmax = 11.852298598948305 
+            text = "\j-a\`^al" 
+        intervals [21]:
+            xmin = 11.852298598948305 
+            xmax = 12.0668424918541 
+            text = "ja\'^p" 
+        intervals [22]:
+            xmin = 12.0668424918541 
+            xmax = 12.186033543468431 
+            text = "k\ic\'^" 
+        intervals [23]:
+            xmin = 12.186033543468431 
+            xmax = 12.370779673470645 
+            text = "gi\`^i" 
+        intervals [24]:
+            xmin = 12.370779673470645 
+            xmax = 12.84790158198445 
+            text = "k\vt\`^\vt\vtj\ct" 
+        intervals [25]:
+            xmin = 12.84790158198445 
+            xmax = 14.296765664335313 
+            text = "" 
+        intervals [26]:
+            xmin = 14.296765664335313 
+            xmax = 14.391759600155828 
+            text = "k\ic\`^" 
+        intervals [27]:
+            xmin = 14.391759600155828 
+            xmax = 15.110530163517051 
+            text = "pa\-^aan-a\'^n\ic\'^" 
+        intervals [28]:
+            xmin = 15.110530163517051 
+            xmax = 15.817023976822266 
+            text = "" 
+        intervals [29]:
+            xmin = 15.817023976822266 
+            xmax = 16.083012163491876 
+            text = "t\ef\`^\ef\eft-\ct" 
+        intervals [30]:
+            xmin = 16.083012163491876 
+            xmax = 16.384284497372764 
+            text = "bu\^^t\Nv-a\'^a" 
+        intervals [31]:
+            xmin = 16.384284497372764 
+            xmax = 16.866048815065174 
+            text = "r\ic\'^-g\ef\'^n" 
+        intervals [32]:
+            xmin = 16.866048815065174 
+            xmax = 17.063388960964392 
+            text = "k\ic\'^" 
+        intervals [33]:
+            xmin = 17.063388960964392 
+            xmax = 17.43227807026265 
+            text = "ca\'^m" 
+        intervals [34]:
+            xmin = 17.43227807026265 
+            xmax = 19.859608387171974 
+            text = "" 
+        intervals [35]:
+            xmin = 19.859608387171974 
+            xmax = 20.1665884456847 
+            text = "m\ef\'^n-a\-^a" 
+        intervals [36]:
+            xmin = 20.1665884456847 
+            xmax = 20.44961049870627 
+            text = "d\ef\-^\ef\ng" 
+        intervals [37]:
+            xmin = 20.44961049870627 
+            xmax = 20.965553621759668 
+            text = "gi\`^nca\^^\'^aam" 
+        intervals [38]:
+            xmin = 20.965553621759668 
+            xmax = 21.44051323231807 
+            text = "g\ct\-^l-\ef\-^" 
+        intervals [39]:
+            xmin = 21.44051323231807 
+            xmax = 21.762820757400714 
+            text = "" 
+        intervals [40]:
+            xmin = 21.762820757400714 
+            xmax = 21.873580326784204 
+            text = "pa\-^" 
+        intervals [41]:
+            xmin = 21.873580326784204 
+            xmax = 21.987912785502647 
+            text = "\nji\'^" 
+        intervals [42]:
+            xmin = 21.987912785502647 
+            xmax = 22.377357723012338 
+            text = "b\ef\^^l-\ef\`^" 
+        intervals [43]:
+            xmin = 22.377357723012338 
+            xmax = 23.4417621440068 
+            text = "" 
+        intervals [44]:
+            xmin = 23.4417621440068 
+            xmax = 23.616774832613896 
+            text = "ma\'^a" 
+        intervals [45]:
+            xmin = 23.616774832613896 
+            xmax = 23.72783436621985 
+            text = "\nj\ic\'^" 
+        intervals [46]:
+            xmin = 23.72783436621985 
+            xmax = 24.045797763871388 
+            text = "to\'^oo\ng\`^-a\`^" 
+        intervals [47]:
+            xmin = 24.045797763871388 
+            xmax = 24.282754469370737 
+            text = "b\ct\`^\ctl\ic\'^" 
+        intervals [48]:
+            xmin = 24.282754469370737 
+            xmax = 24.695492641742 
+            text = "tje\^^\'^ee\ng\-^ a\`^" 
+        intervals [49]:
+            xmin = 24.695492641742 
+            xmax = 24.922880801520613 
+            text = "kwo\^^o\ng\ic\'^" 
+        intervals [50]:
+            xmin = 24.922880801520613 
+            xmax = 25.107340991259285 
+            text = "w\vt\`^n\Nv-\ic\`^" 
+        intervals [51]:
+            xmin = 25.107340991259285 
+            xmax = 25.649223634559206 
+            text = "di\:^\-^-pa\^^ac" 
+        intervals [52]:
+            xmin = 25.649223634559206 
+            xmax = 27.622560421568178 
+            text = "" 
+        intervals [53]:
+            xmin = 27.622560421568178 
+            xmax = 27.823589280916234 
+            text = "ka\^^\'^a\-^" 
+        intervals [54]:
+            xmin = 27.823589280916234 
+            xmax = 28.273132545994216 
+            text = "D\ef\-^\ef\ng" 
+        intervals [55]:
+            xmin = 28.273132545994216 
+            xmax = 29.239868790797836 
+            text = "" 
+        intervals [56]:
+            xmin = 29.239868790797836 
+            xmax = 29.563049021857278 
+            text = "cje\^^\'^eek-\ef\-^" 
+        intervals [57]:
+            xmin = 29.563049021857278 
+            xmax = 29.696401108399833 
+            text = "\nj\ic\'^" 
+        intervals [58]:
+            xmin = 29.696401108399833 
+            xmax = 30.05930323757833 
+            text = "go\`^\nj-\ef\'^" 
+        intervals [59]:
+            xmin = 30.05930323757833 
+            xmax = 32.652060749474515 
+            text = "" 
+        intervals [60]:
+            xmin = 32.652060749474515 
+            xmax = 32.80784311874979 
+            text = "cj\vt\^^\ng" 
+        intervals [61]:
+            xmin = 32.80784311874979 
+            xmax = 33.32705140493991 
+            text = "a\'^kj\ef\`^\efl" 
+        intervals [62]:
+            xmin = 33.32705140493991 
+            xmax = 34.24002119508723 
+            text = "" 
+        intervals [63]:
+            xmin = 34.24002119508723 
+            xmax = 34.333012155947436 
+            text = "\j-\ic\`^\ic" 
+        intervals [64]:
+            xmin = 34.333012155947436 
+            xmax = 34.594229989922155 
+            text = "a\'^-k\ef\^^\'^t\Nv-\ic\`^" 
+        intervals [65]:
+            xmin = 34.594229989922155 
+            xmax = 34.76049485883707 
+            text = "be\-^e" 
+        intervals [66]:
+            xmin = 34.76049485883707 
+            xmax = 35.16119119869518 
+            text = "ma\`^aj" 
+        intervals [67]:
+            xmin = 35.16119119869518 
+            xmax = 36.2185626362791 
+            text = "" 
+        intervals [68]:
+            xmin = 36.2185626362791 
+            xmax = 36.36373881006836 
+            text = "ka\-^a" 
+        intervals [69]:
+            xmin = 36.36373881006836 
+            xmax = 36.684510931530276 
+            text = "d\ef\-^\ef\ng" 
+        intervals [70]:
+            xmin = 36.684510931530276 
+            xmax = 37.02399476007747 
+            text = "\hs\'^-ke\`^et\ct" 
+        intervals [71]:
+            xmin = 37.02399476007747 
+            xmax = 37.106860891455135 
+            text = "k\ic\'^" 
+        intervals [72]:
+            xmin = 37.106860891455135 
+            xmax = 37.323382073441934 
+            text = "m\ct\`^\ctk" 
+        intervals [73]:
+            xmin = 37.323382073441934 
+            xmax = 37.76259935857127 
+            text = "m\ef\'^-dw\ct\^^\'^\ng" 
+        intervals [74]:
+            xmin = 37.76259935857127 
+            xmax = 38.54230293237672 
+            text = "" 
+        intervals [75]:
+            xmin = 38.54230293237672 
+            xmax = 38.72229431962014 
+            text = "ka\-^a" 
+        intervals [76]:
+            xmin = 38.72229431962014 
+            xmax = 38.84752381221314 
+            text = "g\ct\`^" 
+        intervals [77]:
+            xmin = 38.84752381221314 
+            xmax = 39.151205331751164 
+            text = "k\vt\v^\vt\vtl-\ef\'^" 
+        intervals [78]:
+            xmin = 39.151205331751164 
+            xmax = 39.44817812847171 
+            text = "ka\`^l" 
+        intervals [79]:
+            xmin = 39.44817812847171 
+            xmax = 42.45421131766223 
+            text = "" 
+        intervals [80]:
+            xmin = 42.45421131766223 
+            xmax = 42.601217628927905 
+            text = "ka\-^a" 
+        intervals [81]:
+            xmin = 42.601217628927905 
+            xmax = 43.06054536765501 
+            text = "m\ct\`^\ctk" 
+        intervals [82]:
+            xmin = 43.06054536765501 
+            xmax = 43.414121109593985 
+            text = "t\Nva\^^\'^al" 
+        intervals [83]:
+            xmin = 43.414121109593985 
+            xmax = 43.48129730931496 
+            text = "\ic\`^" 
+        intervals [84]:
+            xmin = 43.48129730931496 
+            xmax = 44.004771418842786 
+            text = "\nja\-^-g\ct\^^\'^l-\ef\-^" 
+        intervals [85]:
+            xmin = 44.004771418842786 
+            xmax = 46.18718848500045 
+            text = "" 
+        intervals [86]:
+            xmin = 46.18718848500045 
+            xmax = 46.31910393859449 
+            text = "d\ef\'^" 
+        intervals [87]:
+            xmin = 46.31910393859449 
+            xmax = 46.931954332939505 
+            text = "\nga\`^aan-a\'^n\ic\'^" 
+        intervals [88]:
+            xmin = 46.931954332939505 
+            xmax = 47.875821592566055 
+            text = "" 
+        intervals [89]:
+            xmin = 47.875821592566055 
+            xmax = 48.14147718150696 
+            text = "ru\^^\'^m" 
+        intervals [90]:
+            xmin = 48.14147718150696 
+            xmax = 48.383692571423666 
+            text = "t\Nva\-^al" 
+        intervals [91]:
+            xmin = 48.383692571423666 
+            xmax = 48.51183232608928 
+            text = "k\ic\'^" 
+        intervals [92]:
+            xmin = 48.51183232608928 
+            xmax = 48.806100618438904 
+            text = "kw\vt\-^n" 
+        intervals [93]:
+            xmin = 48.806100618438904 
+            xmax = 50.61642414139581 
+            text = "" 
+        intervals [94]:
+            xmin = 50.61642414139581 
+            xmax = 50.7617156680506 
+            text = "ka\-^a" 
+        intervals [95]:
+            xmin = 50.7617156680506 
+            xmax = 51.15689448809148 
+            text = "\hs\`^-t\Nv\vt\`^\vt\vtt-\ct\`^" 
+        intervals [96]:
+            xmin = 51.15689448809148 
+            xmax = 51.23210372906133 
+            text = "k\ic\'^" 
+        intervals [97]:
+            xmin = 51.23210372906133 
+            xmax = 51.60049100955157 
+            text = "a\`^k\ef\v^\efl\ct\'^" 
+        intervals [98]:
+            xmin = 51.60049100955157 
+            xmax = 52.05092818433282 
+            text = "m\ef\'^-ca\-^aam" 
+        intervals [99]:
+            xmin = 52.05092818433282 
+            xmax = 52.418598941364515 
+            text = "m\ct\`^\ctk" 
+        intervals [100]:
+            xmin = 52.418598941364515 
+            xmax = 54.34027297472235 
+            text = "" 
+        intervals [101]:
+            xmin = 54.34027297472235 
+            xmax = 54.64357117785458 
+            text = "a\`^-o\v^r-\ef\'^" 
+        intervals [102]:
+            xmin = 54.64357117785458 
+            xmax = 55.39471128830614 
+            text = "\nja\`^a w\vt\^^\'^\vt\vtt-\ef\-^" 
+        intervals [103]:
+            xmin = 55.39471128830614 
+            xmax = 55.897801694780505 
+            text = "" 
+        intervals [104]:
+            xmin = 55.897801694780505 
+            xmax = 56.57076997593701 
+            text = "di\:^\-^-pa\^^ac" 
+        intervals [105]:
+            xmin = 56.57076997593701 
+            xmax = 57.26023384810413 
+            text = "" 
+        intervals [106]:
+            xmin = 57.26023384810413 
+            xmax = 57.626872538271314 
+            text = "b\ef\-^\ef" 
+        intervals [107]:
+            xmin = 57.626872538271314 
+            xmax = 58.00026954530794 
+            text = "cw\ct\^^\'^\ctl-\ic\`^" 
+        intervals [108]:
+            xmin = 58.00026954530794 
+            xmax = 58.3668409268997 
+            text = "wi\'^ij-\ef\-^" 
+        intervals [109]:
+            xmin = 58.3668409268997 
+            xmax = 60.45188874710172 
+            text = "" 
+        intervals [110]:
+            xmin = 60.45188874710172 
+            xmax = 60.59465525472112 
+            text = "k\ef\^^\nj" 
+        intervals [111]:
+            xmin = 60.59465525472112 
+            xmax = 60.96712966188018 
+            text = "a\-^a-w\vt\`^n\Nv\ic\`^" 
+        intervals [112]:
+            xmin = 60.96712966188018 
+            xmax = 61.21765661184477 
+            text = "d\ef\-^\ef\ng" 
+        intervals [113]:
+            xmin = 61.21765661184477 
+            xmax = 61.53254361452536 
+            text = "ka\`^l" 
+        intervals [114]:
+            xmin = 61.53254361452536 
+            xmax = 63.517115842709714 
+            text = "" 
+        intervals [115]:
+            xmin = 63.517115842709714 
+            xmax = 63.682317591105935 
+            text = "ka\-^a" 
+        intervals [116]:
+            xmin = 63.682317591105935 
+            xmax = 63.97978670757038 
+            text = "ko\'^op-\ic\`^" 
+        intervals [117]:
+            xmin = 63.97978670757038 
+            xmax = 64.03965470585254 
+            text = "\ic\`^" 
+        intervals [118]:
+            xmin = 64.03965470585254 
+            xmax = 64.38389569597491 
+            text = "cje\^^\'^eek-\ef\-^" 
+        intervals [119]:
+            xmin = 64.38389569597491 
+            xmax = 64.77975581368001 
+            text = "k\ic\^^n-\ic\`^" 
+        intervals [120]:
+            xmin = 64.77975581368001 
+            xmax = 67.20060573621097 
+            text = "" 
+        intervals [121]:
+            xmin = 67.20060573621097 
+            xmax = 67.40253163065469 
+            text = "ca\`^m" 
+        intervals [122]:
+            xmin = 67.40253163065469 
+            xmax = 67.9244736464558 
+            text = "a\`^k\ef\v^\efl\ct\'^" 
+        intervals [123]:
+            xmin = 67.9244736464558 
+            xmax = 67.98426266993766 
+            text = "" 
+        intervals [124]:
+            xmin = 67.98426266993766 
+            xmax = 68.10060887779426 
+            text = "k\ic\`^" 
+        intervals [125]:
+            xmin = 68.10060887779426 
+            xmax = 68.47873405332818 
+            text = "ka\`^l" 
+        intervals [126]:
+            xmin = 68.47873405332818 
+            xmax = 69.7336254494746 
+            text = "" 
+        intervals [127]:
+            xmin = 69.7336254494746 
+            xmax = 69.92901829790492 
+            text = "ka\-^a" 
+        intervals [128]:
+            xmin = 69.92901829790492 
+            xmax = 70.09276935007267 
+            text = "w\ic\^^\'^\icj" 
+        intervals [129]:
+            xmin = 70.09276935007267 
+            xmax = 70.40893484310425 
+            text = "kw\vt\-^n" 
+        intervals [130]:
+            xmin = 70.40893484310425 
+            xmax = 70.62433045787876 
+            text = "ki\^^t\Nv-\ic\`^" 
+        intervals [131]:
+            xmin = 70.62433045787876 
+            xmax = 71.19305045829213 
+            text = "di\:^\-^-pa\^^ac" 
+        intervals [132]:
+            xmin = 71.19305045829213 
+            xmax = 71.74294350989078 
+            text = "" 
+        intervals [133]:
+            xmin = 71.74294350989078 
+            xmax = 71.92262192208847 
+            text = "ma\'^a" 
+        intervals [134]:
+            xmin = 71.92262192208847 
+            xmax = 72.155054509356 
+            text = "ca\'^m" 
+        intervals [135]:
+            xmin = 72.155054509356 
+            xmax = 72.42241676170303 
+            text = "ca\^^\'^m" 
+        intervals [136]:
+            xmin = 72.42241676170303 
+            xmax = 72.60739413396638 
+            text = "ka\^^\'^a" 
+        intervals [137]:
+            xmin = 72.60739413396638 
+            xmax = 73.00456681285169 
+            text = "we\'^ee\nj\`^\ct" 
+        intervals [138]:
+            xmin = 73.00456681285169 
+            xmax = 73.12152707013864 
+            text = "k\ic\`^" 
+        intervals [139]:
+            xmin = 73.12152707013864 
+            xmax = 73.53868532112875 
+            text = "pa\`^aan" 
+        intervals [140]:
+            xmin = 73.53868532112875 
+            xmax = 74.61482371390134 
+            text = "" 
+        intervals [141]:
+            xmin = 74.61482371390134 
+            xmax = 75.08105078135628 
+            text = "c\hs\-^\hst\Nv-\ef\-^" 
+        intervals [142]:
+            xmin = 75.08105078135628 
+            xmax = 76.1676540001867 
+            text = "" 
+        intervals [143]:
+            xmin = 76.1676540001867 
+            xmax = 76.6296377674079 
+            text = "ka\-^" 
+        intervals [144]:
+            xmin = 76.6296377674079 
+            xmax = 77.09047856969767 
+            text = "m\ct\`^\ctk" 
+        intervals [145]:
+            xmin = 77.09047856969767 
+            xmax = 77.39739854402265 
+            text = "" 
+        intervals [146]:
+            xmin = 77.39739854402265 
+            xmax = 77.58726495456604 
+            text = "ca\^^\'^m" 
+        intervals [147]:
+            xmin = 77.58726495456604 
+            xmax = 77.66837293576904 
+            text = "\ic\`^\ic" 
+        intervals [148]:
+            xmin = 77.66837293576904 
+            xmax = 77.92644378505132 
+            text = "d\ef\-^\ef\ng" 
+        intervals [149]:
+            xmin = 77.92644378505132 
+            xmax = 78.00847344785889 
+            text = "k\ic\`^" 
+        intervals [150]:
+            xmin = 78.00847344785889 
+            xmax = 78.29718107341913 
+            text = "ka\`^l" 
+        intervals [151]:
+            xmin = 78.29718107341913 
+            xmax = 79.78261721650847 
+            text = "" 
+        intervals [152]:
+            xmin = 79.78261721650847 
+            xmax = 79.92383603966962 
+            text = "ka\-^a" 
+        intervals [153]:
+            xmin = 79.92383603966962 
+            xmax = 80.30082530139883 
+            text = "kw\vt\-^n" 
+        intervals [154]:
+            xmin = 80.30082530139883 
+            xmax = 80.53263857413914 
+            text = "ki\^^t\Nv-\ic\`^" 
+        intervals [155]:
+            xmin = 80.53263857413914 
+            xmax = 81.06607553252674 
+            text = "di\:^\-^-pa\^^ac" 
+        intervals [156]:
+            xmin = 81.06607553252674 
+            xmax = 82.61219757270487 
+            text = "" 
+        intervals [157]:
+            xmin = 82.61219757270487 
+            xmax = 82.8009749801109 
+            text = "t\ef\`^\efn-\ic\`^" 
+        intervals [158]:
+            xmin = 82.8009749801109 
+            xmax = 83.37977182041689 
+            text = "a\-^a-ne\`^een" 
+        intervals [159]:
+            xmin = 83.37977182041689 
+            xmax = 84.13411650414643 
+            text = "" 
+        intervals [160]:
+            xmin = 84.13411650414643 
+            xmax = 84.43754002496904 
+            text = "a\'^-pi\^^\'^t" 
+        intervals [161]:
+            xmin = 84.43754002496904 
+            xmax = 84.53603053433116 
+            text = "ERG" 
+        intervals [162]:
+            xmin = 84.53603053433116 
+            xmax = 84.79471539953273 
+            text = "ne\^^\'^en\ic\-^" 
+        intervals [163]:
+            xmin = 84.79471539953273 
+            xmax = 85.0264072655088 
+            text = "m\ct\`^\ctk" 
+        intervals [164]:
+            xmin = 85.0264072655088 
+            xmax = 85.18735619836343 
+            text = "pa\-^a" 
+        intervals [165]:
+            xmin = 85.18735619836343 
+            xmax = 85.58878895684002 
+            text = "k\vt\'^\vt\vtl\`^" 
+        intervals [166]:
+            xmin = 85.58878895684002 
+            xmax = 86.29838530567363 
+            text = "" 
+        intervals [167]:
+            xmin = 86.29838530567363 
+            xmax = 86.43151317661857 
+            text = "d\ef\'^" 
+        intervals [168]:
+            xmin = 86.43151317661857 
+            xmax = 86.74054293616608 
+            text = "jo\-^ot-a\'^a" 
+        intervals [169]:
+            xmin = 86.74054293616608 
+            xmax = 86.93187092343861 
+            text = "kw\vt\-^n" 
+        intervals [170]:
+            xmin = 86.93187092343861 
+            xmax = 87.44186523316014 
+            text = "a\-^a-k\vt\'^\vt\vtl\`^" 
+        intervals [171]:
+            xmin = 87.44186523316014 
+            xmax = 88.94022225640242 
+            text = "" 
+        intervals [172]:
+            xmin = 88.94022225640242 
+            xmax = 89.22282492979159 
+            text = "b\hs\-^-\nga\^^aan" 
+        intervals [173]:
+            xmin = 89.22282492979159 
+            xmax = 89.64882723464831 
+            text = "a\-^a-go\`^oo\nj" 
+        intervals [174]:
+            xmin = 89.64882723464831 
+            xmax = 90.02083224617569 
+            text = "t\Nvj\ef\`^\efw" 
+        intervals [175]:
+            xmin = 90.02083224617569 
+            xmax = 91.07296230979614 
+            text = "" 
+        intervals [176]:
+            xmin = 91.07296230979614 
+            xmax = 91.2404869440987 
+            text = "ma\'^a" 
+        intervals [177]:
+            xmin = 91.2404869440987 
+            xmax = 91.76138716272521 
+            text = "gi\`^nca\^^\'^aam" 
+        intervals [178]:
+            xmin = 91.76138716272521 
+            xmax = 92.07031521209312 
+            text = "d\ef\-^\ef\ng" 
+        intervals [179]:
+            xmin = 92.07031521209312 
+            xmax = 92.40395750541046 
+            text = "a\'^-w\vt\`^d\Nv-\ic\`^" 
+        intervals [180]:
+            xmin = 92.40395750541046 
+            xmax = 92.73284705950677 
+            text = "di\:^\-^-pa\^^ac" 
+        intervals [181]:
+            xmin = 92.73284705950677 
+            xmax = 92.82946984997409 
+            text = "k\ic\'^" 
+        intervals [182]:
+            xmin = 92.82946984997409 
+            xmax = 93.26918425736241 
+            text = "dje\-^er" 
+        intervals [183]:
+            xmin = 93.26918425736241 
+            xmax = 93.967195084361 
+            text = "" 
+        intervals [184]:
+            xmin = 93.967195084361 
+            xmax = 94.04600167675922 
+            text = "d\ef\'^" 
+        intervals [185]:
+            xmin = 94.04600167675922 
+            xmax = 94.3798428393755 
+            text = "pa\^^\'^t\Nv" 
+        intervals [186]:
+            xmin = 94.3798428393755 
+            xmax = 94.50900986497051 
+            text = "" 
+        intervals [187]:
+            xmin = 94.50900986497051 
+            xmax = 94.5914385067846 
+            text = "k\ic\'^" 
+        intervals [188]:
+            xmin = 94.5914385067846 
+            xmax = 94.76381409462087 
+            text = "m\ef\'^n" 
+        intervals [189]:
+            xmin = 94.76381409462087 
+            xmax = 95.07271156463668 
+            text = "a\-^a-r\ct\'^m-\ic\`^" 
+        intervals [190]:
+            xmin = 95.07271156463668 
+            xmax = 95.1347603254222 
+            text = "\ic\`^" 
+        intervals [191]:
+            xmin = 95.1347603254222 
+            xmax = 95.42922279729542 
+            text = "g\ef\'^n" 
+        intervals [192]:
+            xmin = 95.42922279729542 
+            xmax = 96.61669072383536 
+            text = "" 
+        intervals [193]:
+            xmin = 96.61669072383536 
+            xmax = 96.99709568373206 
+            text = "d\ef\-^\ef\ng" 
+        intervals [194]:
+            xmin = 96.99709568373206 
+            xmax = 97.4509077444206 
+            text = "" 
+        intervals [195]:
+            xmin = 97.4509077444206 
+            xmax = 97.601156332081 
+            text = "m\ct\`^\ctk" 
+        intervals [196]:
+            xmin = 97.601156332081 
+            xmax = 98.01663967142763 
+            text = "a\'^-ca\v^aam-\ef\'^" 
+        intervals [197]:
+            xmin = 98.01663967142763 
+            xmax = 98.38784573820227 
+            text = "g\ct\^^\'^l-\ef\-^" 
+        intervals [198]:
+            xmin = 98.38784573820227 
+            xmax = 99.51966824761395 
+            text = "" 
+        intervals [199]:
+            xmin = 99.51966824761395 
+            xmax = 99.64948227386472 
+            text = "ka\-^a" 
+        intervals [200]:
+            xmin = 99.64948227386472 
+            xmax = 99.9340546430354 
+            text = "be\`^et-\ic\`^" 
+        intervals [201]:
+            xmin = 99.9340546430354 
+            xmax = 100.39054303831143 
+            text = "we\'^ee\nj\`^\ct" 
+        intervals [202]:
+            xmin = 100.39054303831143 
+            xmax = 101.22319632491957 
+            text = "" 
+        intervals [203]:
+            xmin = 101.22319632491957 
+            xmax = 101.46544757616891 
+            text = "w\ic\^^\'^\icj" 
+        intervals [204]:
+            xmin = 101.46544757616891 
+            xmax = 101.51391962897235 
+            text = "\ic\`^" 
+        intervals [205]:
+            xmin = 101.51391962897235 
+            xmax = 102.12646738509679 
+            text = "pa\-^aan-a\'^n\ic\'^" 
+        intervals [206]:
+            xmin = 102.12646738509679 
+            xmax = 102.51857223055619 
+            text = "" 
+        intervals [207]:
+            xmin = 102.51857223055619 
+            xmax = 102.67004610603854 
+            text = "ka\-^a" 
+        intervals [208]:
+            xmin = 102.67004610603854 
+            xmax = 102.92592624860282 
+            text = "pa\^^ac" 
+        intervals [209]:
+            xmin = 102.92592624860282 
+            xmax = 103.21785272688548 
+            text = "d\ct\'^\ctk-a\'^" 
+        intervals [210]:
+            xmin = 103.21785272688548 
+            xmax = 103.55942785743687 
+            text = "k\ef\-^c-\ef\-^" 
+        intervals [211]:
+            xmin = 103.55942785743687 
+            xmax = 103.80666666666667 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "gloss" 
+        xmin = 0 
+        xmax = 103.80666666666667 
+        intervals: size = 211 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.561791832414338 
+            text = "" 
+        intervals [2]:
+            xmin = 4.561791832414338 
+            xmax = 5.130022963935725 
+            text = "Acaar" 
+        intervals [3]:
+            xmin = 5.130022963935725 
+            xmax = 5.335281891457929 
+            text = "village:POSD.PL" 
+        intervals [4]:
+            xmin = 5.335281891457929 
+            xmax = 5.520482943326498 
+            text = "people:CS" 
+        intervals [5]:
+            xmin = 5.520482943326498 
+            xmax = 6.042056980486039 
+            text = "Deng:ASSOC" 
+        intervals [6]:
+            xmin = 6.042056980486039 
+            xmax = 6.223871280200925 
+            text = "NPRED" 
+        intervals [7]:
+            xmin = 6.223871280200925 
+            xmax = 6.448523687625016 
+            text = "village" 
+        intervals [8]:
+            xmin = 6.448523687625016 
+            xmax = 6.85501504680178 
+            text = "ATTR:SG-big" 
+        intervals [9]:
+            xmin = 6.85501504680178 
+            xmax = 6.91664645670075 
+            text = "CONJ" 
+        intervals [10]:
+            xmin = 6.91664645670075 
+            xmax = 7.08592183919392 
+            text = "NPRED" 
+        intervals [11]:
+            xmin = 7.08592183919392 
+            xmax = 7.295948702657668 
+            text = "village:SG" 
+        intervals [12]:
+            xmin = 7.295948702657668 
+            xmax = 8.019766085801976 
+            text = "ATTR:SG-good:CTG" 
+        intervals [13]:
+            xmin = 8.019766085801976 
+            xmax = 9.405544562507686 
+            text = "" 
+        intervals [14]:
+            xmin = 9.405544562507686 
+            xmax = 9.496660863892094 
+            text = "CONJ" 
+        intervals [15]:
+            xmin = 9.496660863892094 
+            xmax = 9.779571354527132 
+            text = "DEMPRON-RELCOP" 
+        intervals [16]:
+            xmin = 9.779571354527132 
+            xmax = 10.145991568301424 
+            text = "Deng" 
+        intervals [17]:
+            xmin = 10.145991568301424 
+            xmax = 10.78168803219822 
+            text = "PREP-REFL:3SG" 
+        intervals [18]:
+            xmin = 10.78168803219822 
+            xmax = 11.363699674076916 
+            text = "" 
+        intervals [19]:
+            xmin = 11.363699674076916 
+            xmax = 11.551170481124228 
+            text = "NPRED" 
+        intervals [20]:
+            xmin = 11.551170481124228 
+            xmax = 11.852298598948305 
+            text = "man" 
+        intervals [21]:
+            xmin = 11.852298598948305 
+            xmax = 12.0668424918541 
+            text = "search:AGENTNOM" 
+        intervals [22]:
+            xmin = 12.0668424918541 
+            xmax = 12.186033543468431 
+            text = "PREP" 
+        intervals [23]:
+            xmin = 12.186033543468431 
+            xmax = 12.370779673470645 
+            text = "INDPRON:CS" 
+        intervals [24]:
+            xmin = 12.370779673470645 
+            xmax = 12.84790158198445 
+            text = "proteinrichfood" 
+        intervals [25]:
+            xmin = 12.84790158198445 
+            xmax = 14.296765664335313 
+            text = "" 
+        intervals [26]:
+            xmin = 14.296765664335313 
+            xmax = 14.391759600155828 
+            text = "PREP" 
+        intervals [27]:
+            xmin = 14.391759600155828 
+            xmax = 15.110530163517051 
+            text = "village:DEM-DEM" 
+        intervals [28]:
+            xmin = 15.110530163517051 
+            xmax = 15.817023976822266 
+            text = "" 
+        intervals [29]:
+            xmin = 15.817023976822266 
+            xmax = 16.083012163491876 
+            text = "group-S" 
+        intervals [30]:
+            xmin = 16.083012163491876 
+            xmax = 16.384284497372764 
+            text = "cheat:ITERAT-AGENTTOPIC" 
+        intervals [31]:
+            xmin = 16.384284497372764 
+            xmax = 16.866048815065174 
+            text = "REFL-PRON3PL" 
+        intervals [32]:
+            xmin = 16.866048815065174 
+            xmax = 17.063388960964392 
+            text = "PREP" 
+        intervals [33]:
+            xmin = 17.063388960964392 
+            xmax = 17.43227807026265 
+            text = "eat:AGENTNOM" 
+        intervals [34]:
+            xmin = 17.43227807026265 
+            xmax = 19.859608387171974 
+            text = "" 
+        intervals [35]:
+            xmin = 19.859608387171974 
+            xmax = 20.1665884456847 
+            text = "DEMPRON:CS-RELCOP" 
+        intervals [36]:
+            xmin = 20.1665884456847 
+            xmax = 20.44961049870627 
+            text = "Deng" 
+        intervals [37]:
+            xmin = 20.44961049870627 
+            xmax = 20.965553621759668 
+            text = "food:CS" 
+        intervals [38]:
+            xmin = 20.965553621759668 
+            xmax = 21.44051323231807 
+            text = "compound:CS-POSS3SG" 
+        intervals [39]:
+            xmin = 21.44051323231807 
+            xmax = 21.762820757400714 
+            text = "" 
+        intervals [40]:
+            xmin = 21.762820757400714 
+            xmax = 21.873580326784204 
+            text = "NEGPRES" 
+        intervals [41]:
+            xmin = 21.873580326784204 
+            xmax = 21.987912785502647 
+            text = "HABIT" 
+        intervals [42]:
+            xmin = 21.987912785502647 
+            xmax = 22.377357723012338 
+            text = "taste:PRES-3SG" 
+        intervals [43]:
+            xmin = 22.377357723012338 
+            xmax = 23.4417621440068 
+            text = "" 
+        intervals [44]:
+            xmin = 23.4417621440068 
+            xmax = 23.616774832613896 
+            text = "because" 
+        intervals [45]:
+            xmin = 23.616774832613896 
+            xmax = 23.72783436621985 
+            text = "HABIT" 
+        intervals [46]:
+            xmin = 23.72783436621985 
+            xmax = 24.045797763871388 
+            text = "divert:SPATIAL-DESTINATIONFOCUS" 
+        intervals [47]:
+            xmin = 24.045797763871388 
+            xmax = 24.282754469370737 
+            text = "frontside:PL:CS" 
+        intervals [48]:
+            xmin = 24.282754469370737 
+            xmax = 24.695492641742 
+            text = "people:CS MDF" 
+        intervals [49]:
+            xmin = 24.695492641742 
+            xmax = 24.922880801520613 
+            text = "dosomethingfirst:AMB" 
+        intervals [50]:
+            xmin = 24.922880801520613 
+            xmax = 25.107340991259285 
+            text = "arrive:SPATIAL-DVN" 
+        intervals [51]:
+            xmin = 25.107340991259285 
+            xmax = 25.649223634559206 
+            text = "center:CS-village:SG" 
+        intervals [52]:
+            xmin = 25.649223634559206 
+            xmax = 27.622560421568178 
+            text = "" 
+        intervals [53]:
+            xmin = 27.622560421568178 
+            xmax = 27.823589280916234 
+            text = "SEQ" 
+        intervals [54]:
+            xmin = 27.823589280916234 
+            xmax = 28.273132545994216 
+            text = "Deng" 
+        intervals [55]:
+            xmin = 28.273132545994216 
+            xmax = 29.239868790797836 
+            text = "" 
+        intervals [56]:
+            xmin = 29.239868790797836 
+            xmax = 29.563049021857278 
+            text = "wife-POSS3SG" 
+        intervals [57]:
+            xmin = 29.563049021857278 
+            xmax = 29.696401108399833 
+            text = "HABIT" 
+        intervals [58]:
+            xmin = 29.696401108399833 
+            xmax = 30.05930323757833 
+            text = "complainabout:BENEF-3SG" 
+        intervals [59]:
+            xmin = 30.05930323757833 
+            xmax = 32.652060749474515 
+            text = "" 
+        intervals [60]:
+            xmin = 32.652060749474515 
+            xmax = 32.80784311874979 
+            text = "day" 
+        intervals [61]:
+            xmin = 32.80784311874979 
+            xmax = 33.32705140493991 
+            text = "one" 
+        intervals [62]:
+            xmin = 33.32705140493991 
+            xmax = 34.24002119508723 
+            text = "" 
+        intervals [63]:
+            xmin = 34.24002119508723 
+            xmax = 34.333012155947436 
+            text = "people" 
+        intervals [64]:
+            xmin = 34.333012155947436 
+            xmax = 34.594229989922155 
+            text = "PAST-go-SPATIAL" 
+        intervals [65]:
+            xmin = 34.594229989922155 
+            xmax = 34.76049485883707 
+            text = "TO" 
+        intervals [66]:
+            xmin = 34.76049485883707 
+            xmax = 35.16119119869518 
+            text = "fish:AGENTNOM" 
+        intervals [67]:
+            xmin = 35.16119119869518 
+            xmax = 36.2185626362791 
+            text = "" 
+        intervals [68]:
+            xmin = 36.2185626362791 
+            xmax = 36.36373881006836 
+            text = "SEQ" 
+        intervals [69]:
+            xmin = 36.36373881006836 
+            xmax = 36.684510931530276 
+            text = "Deng" 
+        intervals [70]:
+            xmin = 36.684510931530276 
+            xmax = 37.02399476007747 
+            text = "PRES-spear:ANTIPASS" 
+        intervals [71]:
+            xmin = 37.02399476007747 
+            xmax = 37.106860891455135 
+            text = "PREP" 
+        intervals [72]:
+            xmin = 37.106860891455135 
+            xmax = 37.323382073441934 
+            text = "eel:SG" 
+        intervals [73]:
+            xmin = 37.323382073441934 
+            xmax = 37.76259935857127 
+            text = "ATTR-big:PERM" 
+        intervals [74]:
+            xmin = 37.76259935857127 
+            xmax = 38.54230293237672 
+            text = "" 
+        intervals [75]:
+            xmin = 38.54230293237672 
+            xmax = 38.72229431962014 
+            text = "SEQ" 
+        intervals [76]:
+            xmin = 38.72229431962014 
+            xmax = 38.84752381221314 
+            text = "PRONOBJ" 
+        intervals [77]:
+            xmin = 38.84752381221314 
+            xmax = 39.151205331751164 
+            text = "carry:PETAL-3SG" 
+        intervals [78]:
+            xmin = 39.151205331751164 
+            xmax = 39.44817812847171 
+            text = "compound:SG" 
+        intervals [79]:
+            xmin = 39.44817812847171 
+            xmax = 42.45421131766223 
+            text = "" 
+        intervals [80]:
+            xmin = 42.45421131766223 
+            xmax = 42.601217628927905 
+            text = "SEQ" 
+        intervals [81]:
+            xmin = 42.601217628927905 
+            xmax = 43.06054536765501 
+            text = "eel" 
+        intervals [82]:
+            xmin = 43.06054536765501 
+            xmax = 43.414121109593985 
+            text = "cook" 
+        intervals [83]:
+            xmin = 43.414121109593985 
+            xmax = 43.48129730931496 
+            text = "ERG" 
+        intervals [84]:
+            xmin = 43.48129730931496 
+            xmax = 44.004771418842786 
+            text = "wife:POSS3SG" 
+        intervals [85]:
+            xmin = 44.004771418842786 
+            xmax = 46.18718848500045 
+            text = "" 
+        intervals [86]:
+            xmin = 46.18718848500045 
+            xmax = 46.31910393859449 
+            text = "BUT" 
+        intervals [87]:
+            xmin = 46.31910393859449 
+            xmax = 46.931954332939505 
+            text = "person:CS-DEM" 
+        intervals [88]:
+            xmin = 46.931954332939505 
+            xmax = 47.875821592566055 
+            text = "" 
+        intervals [89]:
+            xmin = 47.875821592566055 
+            xmax = 48.14147718150696 
+            text = "finish:NEVIDPAST" 
+        intervals [90]:
+            xmin = 48.14147718150696 
+            xmax = 48.383692571423666 
+            text = "cook:AGENTNOM" 
+        intervals [91]:
+            xmin = 48.383692571423666 
+            xmax = 48.51183232608928 
+            text = "PREP" 
+        intervals [92]:
+            xmin = 48.51183232608928 
+            xmax = 48.806100618438904 
+            text = "porridge:SG" 
+        intervals [93]:
+            xmin = 48.806100618438904 
+            xmax = 50.61642414139581 
+            text = "" 
+        intervals [94]:
+            xmin = 50.61642414139581 
+            xmax = 50.7617156680506 
+            text = "SEQ" 
+        intervals [95]:
+            xmin = 50.7617156680506 
+            xmax = 51.15689448809148 
+            text = "PRES-cook:ANTIPASS" 
+        intervals [96]:
+            xmin = 51.15689448809148 
+            xmax = 51.23210372906133 
+            text = "PREP" 
+        intervals [97]:
+            xmin = 51.23210372906133 
+            xmax = 51.60049100955157 
+            text = "akelo" 
+        intervals [98]:
+            xmin = 51.60049100955157 
+            xmax = 52.05092818433282 
+            text = "MODIF-eat:APPL" 
+        intervals [99]:
+            xmin = 52.05092818433282 
+            xmax = 52.418598941364515 
+            text = "k.o.fish" 
+        intervals [100]:
+            xmin = 52.418598941364515 
+            xmax = 54.34027297472235 
+            text = "" 
+        intervals [101]:
+            xmin = 54.34027297472235 
+            xmax = 54.64357117785458 
+            text = "send:SEQPAST" 
+        intervals [102]:
+            xmin = 54.64357117785458 
+            xmax = 55.39471128830614 
+            text = "DIMIN son-3SG" 
+        intervals [103]:
+            xmin = 55.39471128830614 
+            xmax = 55.897801694780505 
+            text = "" 
+        intervals [104]:
+            xmin = 55.897801694780505 
+            xmax = 56.57076997593701 
+            text = "center:CS-village:SG" 
+        intervals [105]:
+            xmin = 56.57076997593701 
+            xmax = 57.26023384810413 
+            text = "" 
+        intervals [106]:
+            xmin = 57.26023384810413 
+            xmax = 57.626872538271314 
+            text = "PREP" 
+        intervals [107]:
+            xmin = 57.626872538271314 
+            xmax = 58.00026954530794 
+            text = "call-SG" 
+        intervals [108]:
+            xmin = 58.00026954530794 
+            xmax = 58.3668409268997 
+            text = "father:CS-3SG" 
+        intervals [109]:
+            xmin = 58.3668409268997 
+            xmax = 60.45188874710172 
+            text = "" 
+        intervals [110]:
+            xmin = 60.45188874710172 
+            xmax = 60.59465525472112 
+            text = "ADV" 
+        intervals [111]:
+            xmin = 60.59465525472112 
+            xmax = 60.96712966188018 
+            text = "PASTPAF-reach:PETAL" 
+        intervals [112]:
+            xmin = 60.96712966188018 
+            xmax = 61.21765661184477 
+            text = "Deng" 
+        intervals [113]:
+            xmin = 61.21765661184477 
+            xmax = 61.53254361452536 
+            text = "compound:SG" 
+        intervals [114]:
+            xmin = 61.53254361452536 
+            xmax = 63.517115842709714 
+            text = "" 
+        intervals [115]:
+            xmin = 63.517115842709714 
+            xmax = 63.682317591105935 
+            text = "SEQ" 
+        intervals [116]:
+            xmin = 63.682317591105935 
+            xmax = 63.97978670757038 
+            text = "say-BENEF" 
+        intervals [117]:
+            xmin = 63.97978670757038 
+            xmax = 64.03965470585254 
+            text = "ERG" 
+        intervals [118]:
+            xmin = 64.03965470585254 
+            xmax = 64.38389569597491 
+            text = "wife-POSS3SG" 
+        intervals [119]:
+            xmin = 64.38389569597491 
+            xmax = 64.77975581368001 
+            text = "QUOTE" 
+        intervals [120]:
+            xmin = 64.77975581368001 
+            xmax = 67.20060573621097 
+            text = "" 
+        intervals [121]:
+            xmin = 67.20060573621097 
+            xmax = 67.40253163065469 
+            text = "eat:IMPERAT" 
+        intervals [122]:
+            xmin = 67.40253163065469 
+            xmax = 67.9244736464558 
+            text = "akelo" 
+        intervals [123]:
+            xmin = 67.9244736464558 
+            xmax = 67.98426266993766 
+            text = "" 
+        intervals [124]:
+            xmin = 67.98426266993766 
+            xmax = 68.10060887779426 
+            text = "LOC" 
+        intervals [125]:
+            xmin = 68.10060887779426 
+            xmax = 68.47873405332818 
+            text = "compound:SG" 
+        intervals [126]:
+            xmin = 68.47873405332818 
+            xmax = 69.7336254494746 
+            text = "" 
+        intervals [127]:
+            xmin = 69.7336254494746 
+            xmax = 69.92901829790492 
+            text = "SEQ" 
+        intervals [128]:
+            xmin = 69.92901829790492 
+            xmax = 70.09276935007267 
+            text = "AUX (let)" 
+        intervals [129]:
+            xmin = 70.09276935007267 
+            xmax = 70.40893484310425 
+            text = "porridge" 
+        intervals [130]:
+            xmin = 70.40893484310425 
+            xmax = 70.62433045787876 
+            text = "carry:FUGAL-DEST" 
+        intervals [131]:
+            xmin = 70.62433045787876 
+            xmax = 71.19305045829213 
+            text = "center:CS-village:SG" 
+        intervals [132]:
+            xmin = 71.19305045829213 
+            xmax = 71.74294350989078 
+            text = "" 
+        intervals [133]:
+            xmin = 71.74294350989078 
+            xmax = 71.92262192208847 
+            text = "because" 
+        intervals [134]:
+            xmin = 71.92262192208847 
+            xmax = 72.155054509356 
+            text = "eat:AGENTNOM" 
+        intervals [135]:
+            xmin = 72.155054509356 
+            xmax = 72.42241676170303 
+            text = "eat:PRESENT" 
+        intervals [136]:
+            xmin = 72.42241676170303 
+            xmax = 72.60739413396638 
+            text = "PREP:FOCUS" 
+        intervals [137]:
+            xmin = 72.60739413396638 
+            xmax = 73.00456681285169 
+            text = "deceit" 
+        intervals [138]:
+            xmin = 73.00456681285169 
+            xmax = 73.12152707013864 
+            text = "LOC" 
+        intervals [139]:
+            xmin = 73.12152707013864 
+            xmax = 73.53868532112875 
+            text = "village:SG:DEM1" 
+        intervals [140]:
+            xmin = 73.53868532112875 
+            xmax = 74.61482371390134 
+            text = "" 
+        intervals [141]:
+            xmin = 74.61482371390134 
+            xmax = 75.08105078135628 
+            text = "end:3SG" 
+        intervals [142]:
+            xmin = 75.08105078135628 
+            xmax = 76.1676540001867 
+            text = "" 
+        intervals [143]:
+            xmin = 76.1676540001867 
+            xmax = 76.6296377674079 
+            text = "SEQ" 
+        intervals [144]:
+            xmin = 76.6296377674079 
+            xmax = 77.09047856969767 
+            text = "eel:SG" 
+        intervals [145]:
+            xmin = 77.09047856969767 
+            xmax = 77.39739854402265 
+            text = "" 
+        intervals [146]:
+            xmin = 77.39739854402265 
+            xmax = 77.58726495456604 
+            text = "eat" 
+        intervals [147]:
+            xmin = 77.58726495456604 
+            xmax = 77.66837293576904 
+            text = "ERG" 
+        intervals [148]:
+            xmin = 77.66837293576904 
+            xmax = 77.92644378505132 
+            text = "Deng" 
+        intervals [149]:
+            xmin = 77.92644378505132 
+            xmax = 78.00847344785889 
+            text = "LOC" 
+        intervals [150]:
+            xmin = 78.00847344785889 
+            xmax = 78.29718107341913 
+            text = "compound:SG" 
+        intervals [151]:
+            xmin = 78.29718107341913 
+            xmax = 79.78261721650847 
+            text = "" 
+        intervals [152]:
+            xmin = 79.78261721650847 
+            xmax = 79.92383603966962 
+            text = "SEQ" 
+        intervals [153]:
+            xmin = 79.92383603966962 
+            xmax = 80.30082530139883 
+            text = "porridge:SG" 
+        intervals [154]:
+            xmin = 80.30082530139883 
+            xmax = 80.53263857413914 
+            text = "carry:FUGAL-DEST" 
+        intervals [155]:
+            xmin = 80.53263857413914 
+            xmax = 81.06607553252674 
+            text = "center:CS-village:SG" 
+        intervals [156]:
+            xmin = 81.06607553252674 
+            xmax = 82.61219757270487 
+            text = "" 
+        intervals [157]:
+            xmin = 82.61219757270487 
+            xmax = 82.8009749801109 
+            text = "people:DEM1" 
+        intervals [158]:
+            xmin = 82.8009749801109 
+            xmax = 83.37977182041689 
+            text = "PASTPAF-watch" 
+        intervals [159]:
+            xmin = 83.37977182041689 
+            xmax = 84.13411650414643 
+            text = "" 
+        intervals [160]:
+            xmin = 84.13411650414643 
+            xmax = 84.43754002496904 
+            text = "PAST-becometired:CAUS" 
+        intervals [161]:
+            xmin = 84.43754002496904 
+            xmax = 84.53603053433116 
+            text = "\ic\`^" 
+        intervals [162]:
+            xmin = 84.53603053433116 
+            xmax = 84.79471539953273 
+            text = "watch:INF" 
+        intervals [163]:
+            xmin = 84.79471539953273 
+            xmax = 85.0264072655088 
+            text = "eel:SG" 
+        intervals [164]:
+            xmin = 85.0264072655088 
+            xmax = 85.18735619836343 
+            text = "NEGPRES" 
+        intervals [165]:
+            xmin = 85.18735619836343 
+            xmax = 85.58878895684002 
+            text = "carry:PETAL" 
+        intervals [166]:
+            xmin = 85.58878895684002 
+            xmax = 86.29838530567363 
+            text = "" 
+        intervals [167]:
+            xmin = 86.29838530567363 
+            xmax = 86.43151317661857 
+            text = "BUT" 
+        intervals [168]:
+            xmin = 86.43151317661857 
+            xmax = 86.74054293616608 
+            text = "turn:REL" 
+        intervals [169]:
+            xmin = 86.74054293616608 
+            xmax = 86.93187092343861 
+            text = "porridge:SG" 
+        intervals [170]:
+            xmin = 86.93187092343861 
+            xmax = 87.44186523316014 
+            text = "PASTPAF-carry:PETAL" 
+        intervals [171]:
+            xmin = 87.44186523316014 
+            xmax = 88.94022225640242 
+            text = "" 
+        intervals [172]:
+            xmin = 88.94022225640242 
+            xmax = 89.47692706488886 
+            text = "no-person:CS" 
+        intervals [173]:
+            xmin = 89.47692706488886 
+            xmax = 89.64882723464831 
+            text = "PAST:complainabout:ANTIPASS" 
+        intervals [174]:
+            xmin = 89.64882723464831 
+            xmax = 90.02083224617569 
+            text = "ADV" 
+        intervals [175]:
+            xmin = 90.02083224617569 
+            xmax = 91.07296230979614 
+            text = "" 
+        intervals [176]:
+            xmin = 91.07296230979614 
+            xmax = 91.2404869440987 
+            text = "because" 
+        intervals [177]:
+            xmin = 91.2404869440987 
+            xmax = 91.76138716272521 
+            text = "food:SG:CS" 
+        intervals [178]:
+            xmin = 91.76138716272521 
+            xmax = 92.07031521209312 
+            text = "Deng" 
+        intervals [179]:
+            xmin = 92.07031521209312 
+            xmax = 92.40395750541046 
+            text = "PAST-reach-DEST" 
+        intervals [180]:
+            xmin = 92.40395750541046 
+            xmax = 92.73284705950677 
+            text = "center:CS-village:SG" 
+        intervals [181]:
+            xmin = 92.73284705950677 
+            xmax = 92.82946984997409 
+            text = "PREP" 
+        intervals [182]:
+            xmin = 92.82946984997409 
+            xmax = 93.26918425736241 
+            text = "truth" 
+        intervals [183]:
+            xmin = 93.26918425736241 
+            xmax = 93.967195084361 
+            text = "" 
+        intervals [184]:
+            xmin = 93.967195084361 
+            xmax = 94.04600167675922 
+            text = "BUT" 
+        intervals [185]:
+            xmin = 94.04600167675922 
+            xmax = 94.3798428393755 
+            text = "NEGPRES" 
+        intervals [186]:
+            xmin = 94.3798428393755 
+            xmax = 94.50900986497051 
+            text = "" 
+        intervals [187]:
+            xmin = 94.50900986497051 
+            xmax = 94.5914385067846 
+            text = "PREP" 
+        intervals [188]:
+            xmin = 94.5914385067846 
+            xmax = 94.76381409462087 
+            text = "DEMPRON:CS" 
+        intervals [189]:
+            xmin = 94.76381409462087 
+            xmax = 95.07271156463668 
+            text = "PAST&PAF-thinkabout" 
+        intervals [190]:
+            xmin = 95.07271156463668 
+            xmax = 95.1347603254222 
+            text = "" 
+        intervals [191]:
+            xmin = 95.1347603254222 
+            xmax = 95.42922279729542 
+            text = "PRON3PL" 
+        intervals [192]:
+            xmin = 95.42922279729542 
+            xmax = 96.61669072383536 
+            text = "" 
+        intervals [193]:
+            xmin = 96.61669072383536 
+            xmax = 96.99709568373206 
+            text = "Deng" 
+        intervals [194]:
+            xmin = 96.99709568373206 
+            xmax = 97.4509077444206 
+            text = "" 
+        intervals [195]:
+            xmin = 97.4509077444206 
+            xmax = 97.601156332081 
+            text = "eel:SG" 
+        intervals [196]:
+            xmin = 97.601156332081 
+            xmax = 98.01663967142763 
+            text = "PAST-eat:FUGAL-3SG" 
+        intervals [197]:
+            xmin = 98.01663967142763 
+            xmax = 98.38784573820227 
+            text = "compound:CS-3SG" 
+        intervals [198]:
+            xmin = 98.38784573820227 
+            xmax = 99.51966824761395 
+            text = "" 
+        intervals [199]:
+            xmin = 99.51966824761395 
+            xmax = 99.64948227386472 
+            text = "SEQ" 
+        intervals [200]:
+            xmin = 99.64948227386472 
+            xmax = 99.9340546430354 
+            text = "stay:NOM-CS" 
+        intervals [201]:
+            xmin = 99.9340546430354 
+            xmax = 100.39054303831143 
+            text = "deceit" 
+        intervals [202]:
+            xmin = 100.39054303831143 
+            xmax = 101.22319632491957 
+            text = "" 
+        intervals [203]:
+            xmin = 101.22319632491957 
+            xmax = 101.46544757616891 
+            text = "AUX (let)" 
+        intervals [204]:
+            xmin = 101.46544757616891 
+            xmax = 101.51391962897235 
+            text = "ERG" 
+        intervals [205]:
+            xmin = 101.51391962897235 
+            xmax = 102.12646738509679 
+            text = "village:DEM1-DEM" 
+        intervals [206]:
+            xmin = 102.12646738509679 
+            xmax = 102.51857223055619 
+            text = "" 
+        intervals [207]:
+            xmin = 102.51857223055619 
+            xmax = 102.67004610603854 
+            text = "SEQ" 
+        intervals [208]:
+            xmin = 102.67004610603854 
+            xmax = 102.92592624860282 
+            text = "village:SG" 
+        intervals [209]:
+            xmin = 102.92592624860282 
+            xmax = 103.21785272688548 
+            text = "return:FUGAL:DEST" 
+        intervals [210]:
+            xmin = 103.21785272688548 
+            xmax = 103.55942785743687 
+            text = "place:CS-3SG" 
+        intervals [211]:
+            xmin = 103.55942785743687 
+            xmax = 103.80666666666667 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "orth" 
+        xmin = 0 
+        xmax = 103.80666666666667 
+        intervals: size = 77 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.561791832414338 
+            text = "" 
+        intervals [2]:
+            xmin = 4.561791832414338 
+            xmax = 8.019766085801976 
+            text = "Acaar\ct paa yaa Deng, ba pac me dw\o/ng o ba pac me d\o/\o/j." 
+        intervals [3]:
+            xmin = 8.019766085801976 
+            xmax = 9.405544562507686 
+            text = "" 
+        intervals [4]:
+            xmin = 9.405544562507686 
+            xmax = 12.84790158198445 
+            text = "O men-a Deng kiree, ba jal yab ki gi\:^ ka\:^y\o/" 
+        intervals [5]:
+            xmin = 12.84790158198445 
+            xmax = 14.296765664335313 
+            text = "" 
+        intervals [6]:
+            xmin = 14.296765664335313 
+            xmax = 15.110530163517051 
+            text = "Ki paanani " 
+        intervals [7]:
+            xmin = 15.110530163517051 
+            xmax = 15.817023976822266 
+            text = "" 
+        intervals [8]:
+            xmin = 15.817023976822266 
+            xmax = 17.43227807026265 
+            text = "teed\o/ buudh-a ri gen ki cam." 
+        intervals [9]:
+            xmin = 17.43227807026265 
+            xmax = 19.859608387171974 
+            text = "" 
+        intervals [10]:
+            xmin = 19.859608387171974 
+            xmax = 22.377357723012338 
+            text = "Men-a Deng gincaam g\o/le pa nyi bele." 
+        intervals [11]:
+            xmin = 22.377357723012338 
+            xmax = 23.4417621440068 
+            text = "" 
+        intervals [12]:
+            xmin = 23.4417621440068 
+            xmax = 25.649223634559206 
+            text = "Ma nyi to\:^o\:^ng-a b\o/li tye\:^ng-a kwo\:^ngi wa\:^nhi di\:^pac." 
+        intervals [13]:
+            xmin = 25.649223634559206 
+            xmax = 27.622560421568178 
+            text = "" 
+        intervals [14]:
+            xmin = 27.622560421568178 
+            xmax = 28.273132545994216 
+            text = "Ka Deng " 
+        intervals [15]:
+            xmin = 28.273132545994216 
+            xmax = 29.239868790797836 
+            text = "" 
+        intervals [16]:
+            xmin = 29.239868790797836 
+            xmax = 30.05930323757833 
+            text = "cye\:^ge nyi go\:^nye." 
+        intervals [17]:
+            xmin = 30.05930323757833 
+            xmax = 32.652060749474515 
+            text = "" 
+        intervals [18]:
+            xmin = 32.652060749474515 
+            xmax = 33.32705140493991 
+            text = "Cya\:^ng akyel" 
+        intervals [19]:
+            xmin = 33.32705140493991 
+            xmax = 34.24002119508723 
+            text = "" 
+        intervals [20]:
+            xmin = 34.24002119508723 
+            xmax = 35.16119119869518 
+            text = "ji akedhi be may." 
+        intervals [21]:
+            xmin = 35.16119119869518 
+            xmax = 36.2185626362791 
+            text = "" 
+        intervals [22]:
+            xmin = 36.2185626362791 
+            xmax = 37.76259935857127 
+            text = "Ka Deng o\'^ke\:^d\o/ ki m\o/\o/g me dw\o/ng." 
+        intervals [23]:
+            xmin = 37.76259935857127 
+            xmax = 38.54230293237672 
+            text = "" 
+        intervals [24]:
+            xmin = 38.54230293237672 
+            xmax = 39.44817812847171 
+            text = "Ka g\o/ ka\:^a\:^le kal." 
+        intervals [25]:
+            xmin = 39.44817812847171 
+            xmax = 42.45421131766223 
+            text = "" 
+        intervals [26]:
+            xmin = 42.45421131766223 
+            xmax = 44.004771418842786 
+            text = "Ka m\o/\o/g thal yi nyag\o/le." 
+        intervals [27]:
+            xmin = 44.004771418842786 
+            xmax = 46.18718848500045 
+            text = "" 
+        intervals [28]:
+            xmin = 46.18718848500045 
+            xmax = 46.931954332939505 
+            text = "De nganani " 
+        intervals [29]:
+            xmin = 46.931954332939505 
+            xmax = 47.875821592566055 
+            text = "" 
+        intervals [30]:
+            xmin = 47.875821592566055 
+            xmax = 48.806100618438904 
+            text = "rum thal ki kwa\:^n." 
+        intervals [31]:
+            xmin = 48.806100618438904 
+            xmax = 50.61642414139581 
+            text = "" 
+        intervals [32]:
+            xmin = 50.61642414139581 
+            xmax = 52.418598941364515 
+            text = "Ka ota\:^d\o/ ki akel\o/ me caam m\o/\o/g." 
+        intervals [33]:
+            xmin = 52.418598941364515 
+            xmax = 54.34027297472235 
+            text = "" 
+        intervals [34]:
+            xmin = 54.34027297472235 
+            xmax = 55.39471128830614 
+            text = "Ao\:^re nyawa\:^de" 
+        intervals [35]:
+            xmin = 55.39471128830614 
+            xmax = 55.897801694780505 
+            text = "" 
+        intervals [36]:
+            xmin = 55.897801694780505 
+            xmax = 56.57076997593701 
+            text = " di\:^pac" 
+        intervals [37]:
+            xmin = 56.57076997593701 
+            xmax = 57.26023384810413 
+            text = "" 
+        intervals [38]:
+            xmin = 57.26023384810413 
+            xmax = 58.3668409268997 
+            text = "be cw\o/li wi\:^ye." 
+        intervals [39]:
+            xmin = 58.3668409268997 
+            xmax = 60.45188874710172 
+            text = "" 
+        intervals [40]:
+            xmin = 60.45188874710172 
+            xmax = 61.53254361452536 
+            text = "Keny-a awanhi Deng kal," 
+        intervals [41]:
+            xmin = 61.53254361452536 
+            xmax = 63.517115842709714 
+            text = "" 
+        intervals [42]:
+            xmin = 63.517115842709714 
+            xmax = 64.77975581368001 
+            text = "Ka ko\:^bbi yi cye\:^ge kinni," 
+        intervals [43]:
+            xmin = 64.77975581368001 
+            xmax = 67.20060573621097 
+            text = "" 
+        intervals [44]:
+            xmin = 67.20060573621097 
+            xmax = 68.47873405332818 
+            text = "Cam akel\o/ ki\:^ kal" 
+        intervals [45]:
+            xmin = 68.47873405332818 
+            xmax = 69.7336254494746 
+            text = "" 
+        intervals [46]:
+            xmin = 69.7336254494746 
+            xmax = 71.19305045829213 
+            text = "ka wiy kwa\:^n ki\:^dhi di\:^pac" 
+        intervals [47]:
+            xmin = 71.19305045829213 
+            xmax = 71.74294350989078 
+            text = "" 
+        intervals [48]:
+            xmin = 71.74294350989078 
+            xmax = 73.53868532112875 
+            text = "ma\'^ cam cam ka we\:^e\:^ny\o/ ki\~^ paan." 
+        intervals [49]:
+            xmin = 73.53868532112875 
+            xmax = 74.61482371390134 
+            text = "" 
+        intervals [50]:
+            xmin = 74.61482371390134 
+            xmax = 75.08105078135628 
+            text = "Codhe" 
+        intervals [51]:
+            xmin = 75.08105078135628 
+            xmax = 76.1676540001867 
+            text = "" 
+        intervals [52]:
+            xmin = 76.1676540001867 
+            xmax = 78.29718107341913 
+            text = "ka m\o/\o/g cam yi Deng ki\:^ kal" 
+        intervals [53]:
+            xmin = 78.29718107341913 
+            xmax = 79.78261721650847 
+            text = "" 
+        intervals [54]:
+            xmin = 79.78261721650847 
+            xmax = 81.06607553252674 
+            text = "ka kwa\:^n ki\:^dhi di\:^pac." 
+        intervals [55]:
+            xmin = 81.06607553252674 
+            xmax = 82.61219757270487 
+            text = "" 
+        intervals [56]:
+            xmin = 82.61219757270487 
+            xmax = 83.37977182041689 
+            text = "Teen-a a\'^ne\:^e\:^n" 
+        intervals [57]:
+            xmin = 83.37977182041689 
+            xmax = 84.13411650414643 
+            text = "" 
+        intervals [58]:
+            xmin = 84.13411650414643 
+            xmax = 85.58878895684002 
+            text = " a\'^pi\:^d yi ne\:^nni m\o/\o/g pa ka\:^a\:^l" 
+        intervals [59]:
+            xmin = 85.58878895684002 
+            xmax = 86.29838530567363 
+            text = "" 
+        intervals [60]:
+            xmin = 86.29838530567363 
+            xmax = 87.44186523316014 
+            text = "de yo\:^d-a\'^ kwa\:^n a ka\:^a\:^l." 
+        intervals [61]:
+            xmin = 87.44186523316014 
+            xmax = 88.94022225640242 
+            text = "" 
+        intervals [62]:
+            xmin = 88.94022225640242 
+            xmax = 90.02083224617569 
+            text = "Bongan-a\'^ a\'^go\:^o\:^ny thyew" 
+        intervals [63]:
+            xmin = 90.02083224617569 
+            xmax = 91.07296230979614 
+            text = "" 
+        intervals [64]:
+            xmin = 91.07296230979614 
+            xmax = 93.26918425736241 
+            text = "ma\'^ gi\:^ncaam Deng a\'^wa\:^dhi di\:^pac  kidye\:^r" 
+        intervals [65]:
+            xmin = 93.26918425736241 
+            xmax = 93.967195084361 
+            text = "" 
+        intervals [66]:
+            xmin = 93.967195084361 
+            xmax = 94.3798428393755 
+            text = "De path" 
+        intervals [67]:
+            xmin = 94.3798428393755 
+            xmax = 94.50900986497051 
+            text = "" 
+        intervals [68]:
+            xmin = 94.50900986497051 
+            xmax = 95.42922279729542 
+            text = "ki men-a a\'^r\o/mi yi gen." 
+        intervals [69]:
+            xmin = 95.42922279729542 
+            xmax = 96.61669072383536 
+            text = "" 
+        intervals [70]:
+            xmin = 96.61669072383536 
+            xmax = 98.38784573820227 
+            text = "Deng, m\o/\o/g a\'^caame g\o/le," 
+        intervals [71]:
+            xmin = 98.38784573820227 
+            xmax = 99.51966824761395 
+            text = "" 
+        intervals [72]:
+            xmin = 99.51966824761395 
+            xmax = 100.39054303831143 
+            text = "ka be\:^e\:^di we\:^e\:^ny\o/" 
+        intervals [73]:
+            xmin = 100.39054303831143 
+            xmax = 101.22319632491957 
+            text = "" 
+        intervals [74]:
+            xmin = 101.22319632491957 
+            xmax = 102.12646738509679 
+            text = "wiy yi paanani" 
+        intervals [75]:
+            xmin = 102.12646738509679 
+            xmax = 102.51857223055619 
+            text = "" 
+        intervals [76]:
+            xmin = 102.51857223055619 
+            xmax = 103.55942785743687 
+            text = "Ka pac d\o/\o/g-a keje." 
+        intervals [77]:
+            xmin = 103.55942785743687 
+            xmax = 103.80666666666667 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "trans" 
+        xmin = 0 
+        xmax = 103.80666666666667 
+        intervals: size = 61 
+        intervals [1]:
+            xmin = 0 
+            xmax = 4.561791832414338 
+            text = "" 
+        intervals [2]:
+            xmin = 4.561791832414338 
+            xmax = 8.019766085801976 
+            text = "Acaar, the village of Deng, is a big village and a good village. " 
+        intervals [3]:
+            xmin = 8.019766085801976 
+            xmax = 9.405544562507686 
+            text = "" 
+        intervals [4]:
+            xmin = 9.405544562507686 
+            xmax = 12.84790158198445 
+            text = "And Deng himself, is a man who knows how to look for fish/meat." 
+        intervals [5]:
+            xmin = 12.84790158198445 
+            xmax = 14.296765664335313 
+            text = "" 
+        intervals [6]:
+            xmin = 14.296765664335313 
+            xmax = 17.43227807026265 
+            text = "In that village, people are cheating each other in relation to eating" 
+        intervals [7]:
+            xmin = 17.43227807026265 
+            xmax = 19.859608387171974 
+            text = "" 
+        intervals [8]:
+            xmin = 19.859608387171974 
+            xmax = 22.377357723012338 
+            text = "As for Deng, the food of his own house he never tastes." 
+        intervals [9]:
+            xmin = 22.377357723012338 
+            xmax = 23.4417621440068 
+            text = "" 
+        intervals [10]:
+            xmin = 23.4417621440068 
+            xmax = 25.649223634559206 
+            text = "Because it is diverted towards put in front of the people who are first to reach the center of the village." 
+        intervals [11]:
+            xmin = 25.649223634559206 
+            xmax = 27.622560421568178 
+            text = "" 
+        intervals [12]:
+            xmin = 27.622560421568178 
+            xmax = 30.05930323757833 
+            text = "And then [ie, each time that happened] Deng used to complain to his wife." 
+        intervals [13]:
+            xmin = 30.05930323757833 
+            xmax = 32.652060749474515 
+            text = "" 
+        intervals [14]:
+            xmin = 32.652060749474515 
+            xmax = 35.16119119869518 
+            text = "One day, people went fishing." 
+        intervals [15]:
+            xmin = 35.16119119869518 
+            xmax = 36.2185626362791 
+            text = "" 
+        intervals [16]:
+            xmin = 36.2185626362791 
+            xmax = 37.76259935857127 
+            text = "And then Deng spears a big eel." 
+        intervals [17]:
+            xmin = 37.76259935857127 
+            xmax = 38.54230293237672 
+            text = "" 
+        intervals [18]:
+            xmin = 38.54230293237672 
+            xmax = 39.44817812847171 
+            text = "And then he brought it home." 
+        intervals [19]:
+            xmin = 39.44817812847171 
+            xmax = 42.45421131766223 
+            text = "" 
+        intervals [20]:
+            xmin = 42.45421131766223 
+            xmax = 44.004771418842786 
+            text = "And then his wife cooks the eel." 
+        intervals [21]:
+            xmin = 44.004771418842786 
+            xmax = 46.18718848500045 
+            text = "" 
+        intervals [22]:
+            xmin = 46.18718848500045 
+            xmax = 48.806100618438904 
+            text = "But that person [his wife] had already cooked porridge." 
+        intervals [23]:
+            xmin = 48.806100618438904 
+            xmax = 50.61642414139581 
+            text = "" 
+        intervals [24]:
+            xmin = 50.61642414139581 
+            xmax = 52.418598941364515 
+            text = "And then [= after he arrived with the fish] she cooked akelo to be eaten with the eel." 
+        intervals [25]:
+            xmin = 52.418598941364515 
+            xmax = 54.34027297472235 
+            text = "" 
+        intervals [26]:
+            xmin = 54.34027297472235 
+            xmax = 58.3668409268997 
+            text = "And then she sent her little son to the centre of the village to call his father." 
+        intervals [27]:
+            xmin = 58.3668409268997 
+            xmax = 60.45188874710172 
+            text = "" 
+        intervals [28]:
+            xmin = 60.45188874710172 
+            xmax = 61.53254361452536 
+            text = "When Deng reached the compound" 
+        intervals [29]:
+            xmin = 61.53254361452536 
+            xmax = 63.517115842709714 
+            text = "" 
+        intervals [30]:
+            xmin = 63.517115842709714 
+            xmax = 64.77975581368001 
+            text = "then she said [to him] like this:" 
+        intervals [31]:
+            xmin = 64.77975581368001 
+            xmax = 67.20060573621097 
+            text = "" 
+        intervals [32]:
+            xmin = 67.20060573621097 
+            xmax = 68.47873405332818 
+            text = "Eat akelo in the compound, " 
+        intervals [33]:
+            xmin = 68.47873405332818 
+            xmax = 69.7336254494746 
+            text = "" 
+        intervals [34]:
+            xmin = 69.7336254494746 
+            xmax = 71.19305045829213 
+            text = "and let porridge be taken to the centre, " 
+        intervals [35]:
+            xmin = 71.19305045829213 
+            xmax = 71.74294350989078 
+            text = "" 
+        intervals [36]:
+            xmin = 71.74294350989078 
+            xmax = 73.53868532112875 
+            text = "because eating is eaten by deceit in this village." 
+        intervals [37]:
+            xmin = 73.53868532112875 
+            xmax = 74.61482371390134 
+            text = "" 
+        intervals [38]:
+            xmin = 74.61482371390134 
+            xmax = 75.08105078135628 
+            text = "After that" 
+        intervals [39]:
+            xmin = 75.08105078135628 
+            xmax = 76.1676540001867 
+            text = "" 
+        intervals [40]:
+            xmin = 76.1676540001867 
+            xmax = 78.29718107341913 
+            text = "Deng ate the eel in the compound" 
+        intervals [41]:
+            xmin = 78.29718107341913 
+            xmax = 79.78261721650847 
+            text = "" 
+        intervals [42]:
+            xmin = 79.78261721650847 
+            xmax = 81.06607553252674 
+            text = "And then the porridge was carried to the center of the village." 
+        intervals [43]:
+            xmin = 81.06607553252674 
+            xmax = 82.61219757270487 
+            text = "" 
+        intervals [44]:
+            xmin = 82.61219757270487 
+            xmax = 85.58878895684002 
+            text = "Those who were watching [for the eel to be brought], the watching made them tired: the fish is not brought." 
+        intervals [45]:
+            xmin = 85.58878895684002 
+            xmax = 86.29838530567363 
+            text = "" 
+        intervals [46]:
+            xmin = 86.29838530567363 
+            xmax = 87.44186523316014 
+            text = "but instead the porridge is brought." 
+        intervals [47]:
+            xmin = 87.44186523316014 
+            xmax = 88.94022225640242 
+            text = "" 
+        intervals [48]:
+            xmin = 88.94022225640242 
+            xmax = 90.02083224617569 
+            text = "Nonetheless, nobody complained " 
+        intervals [49]:
+            xmin = 90.02083224617569 
+            xmax = 91.07296230979614 
+            text = "" 
+        intervals [50]:
+            xmin = 91.07296230979614 
+            xmax = 93.26918425736241 
+            text = "because Deng's food has truly reached the centre" 
+        intervals [51]:
+            xmin = 93.26918425736241 
+            xmax = 93.967195084361 
+            text = "" 
+        intervals [52]:
+            xmin = 93.967195084361 
+            xmax = 94.3798428393755 
+            text = "but it was not " 
+        intervals [53]:
+            xmin = 94.3798428393755 
+            xmax = 94.50900986497051 
+            text = "" 
+        intervals [54]:
+            xmin = 94.50900986497051 
+            xmax = 95.42922279729542 
+            text = "the one, which they thought of.   " 
+        intervals [55]:
+            xmin = 95.42922279729542 
+            xmax = 96.61669072383536 
+            text = "" 
+        intervals [56]:
+            xmin = 96.61669072383536 
+            xmax = 98.38784573820227 
+            text = "Deng, he went to eat the eel in his house" 
+        intervals [57]:
+            xmin = 98.38784573820227 
+            xmax = 99.51966824761395 
+            text = "" 
+        intervals [58]:
+            xmin = 99.51966824761395 
+            xmax = 102.12646738509679 
+            text = "and then the village abandoned its deceitful way of living." 
+        intervals [59]:
+            xmin = 102.12646738509679 
+            xmax = 102.51857223055619 
+            text = "" 
+        intervals [60]:
+            xmin = 102.51857223055619 
+            xmax = 103.55942785743687 
+            text = "And the village returned to its place." 
+        intervals [61]:
+            xmin = 103.55942785743687 
+            xmax = 103.80666666666667 
+            text = "" 
