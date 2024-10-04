@@ -872,6 +872,8 @@
            <p>This page is intended as a resource for Moro people as well as researchers who are interested in learning more about the Moro language. Written Moro is a mixture of dialects, but often closely resembles the Wërria dialect. As in all written Moro, tone is not marked in these stories.</p>
            
            <p>The development of this corpus was supported by a grant from the Hellman Fellows Fund.</p>
+
+           <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1928663849&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/max-huang-382250223" title="Max Huang" target="_blank" style="color: #cccccc; text-decoration: none;">Max Huang</a> · <a href="https://soundcloud.com/max-huang-382250223/df0" title="Df0" target="_blank" style="color: #cccccc; text-decoration: none;">Df0</a></div>
             
          	<h1 className='ui dividing header'>Project members</h1>
 
