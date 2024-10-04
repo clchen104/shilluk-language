@@ -856,58 +856,99 @@
         }
       });
 
-      var Homepage = React.createClass(
-             
-         {render: function() {
-//=========================HOMEPAGE===============================
-          return   <div className='ui text container'> 
-
-				
-          		<h1 className='ui dividing header'>Moro Story Corpus</h1>
-
-              <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img>
-          
-          <p>This website contains a collection of texts and stories in the Moro language. Moro is a language of the Nuba Mountains of Sudan, where the Moro people have lived since ancient times. Moro is a Kordofanian language, a subgroup of the Niger-Congo language family. Through the texts on this page you can learn more about the Moro, their culture, and their traditional stories. </p> 
-          
-           <p>This page is intended as a resource for Moro people as well as researchers who are interested in learning more about the Moro language. Written Moro is a mixture of dialects, but often closely resembles the Wërria dialect. As in all written Moro, tone is not marked in these stories.</p>
-           
-           <p>The development of this corpus was supported by a grant from the Hellman Fellows Fund.</p>
-            
-         	<h1 className='ui dividing header'>Project members</h1>
-
-
-			<h3> Angelo Naser (Author, Editor) </h3>
-        	<p> Born and raised in the village of Karkaria in the Nuba Mountains, Angelo now lives and works in Khartoum. Angelo is a member of the Moro Language Committee and is involved in the Moro literacy program. He works at the United Bible Society in Khartoum. </p> 
-
-			<h3> Peter Jenks (Editor) </h3>
-        	<p> <a href="http://linguistics.berkeley.edu/~jenks/home.html">Peter</a> has studied the Moro language since 2005, much of his work in collaboration with the <a href='http://moro.ucsd.edu/'>Moro Language Project</a>. He is an Assistant Professor at UC Berkeley.</p> 
-
-			<h3> Hannah Sande (Editor) </h3>
-        	<p> <a href="http://linguistics.berkeley.edu/~hsande/">Hannah</a> is a PhD candidate in the UC Berkeley linguistics department. In addition to her work on Moro, Hannah has worked extensively on Guebie, an endangered Kru language spoken in the Ivory Coast. </p> 
-
-			<h3> Marcus Ewert </h3>
-        	<p> <a href="http://www.marcushenryewert.com/#/">Marcus</a> is a software developer in the Bay Area who has provided assistance with several linguistic documentation projects.</p> 
-
-			<h3> Juwon Kim </h3>
-        	<p> UC Berkeley Class of 2018, Juwon is a double major in linguistics and computer science. </p> 
-
-			<h3> Maytas Monsereenusorn </h3>
-        	<p> UC Berkeley Class of 2016, Maytas is a double major in computer science and economics. </p> 
-
-      {/* SoundCloud audio player */}
-      <iframe
-          width="100%"
-          height="166"
-          scrolling="no"
-          frameborder="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/max-huang-382250223/df0%3Fsi%3D53f4787674544dc4b4430920d9dbd897&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
-        ></iframe>
-
-          </div>
-          }
-         }
-      )
+      var Homepage = React.createClass({
+        render: function () {
+          //=========================HOMEPAGE===============================
+          return (
+            <div className="ui text container">
+              <h1 className="ui dividing header">Moro Story Corpus</h1>
+      
+              <img
+                className="ui medium right floated rounded image"
+                src="./images/Nuba-berge.jpg"
+              ></img>
+      
+              <p>
+                This website contains a collection of texts and stories in the Moro
+                language. Moro is a language of the Nuba Mountains of Sudan, where the
+                Moro people have lived since ancient times. Moro is a Kordofanian
+                language, a subgroup of the Niger-Congo language family. Through the
+                texts on this page you can learn more about the Moro, their culture,
+                and their traditional stories.
+              </p>
+      
+              <p>
+                This page is intended as a resource for Moro people as well as
+                researchers who are interested in learning more about the Moro
+                language. Written Moro is a mixture of dialects, but often closely
+                resembles the Wërria dialect. As in all written Moro, tone is not
+                marked in these stories.
+              </p>
+      
+              <p>
+                The development of this corpus was supported by a grant from the
+                Hellman Fellows Fund.
+              </p>
+      
+              <h1 className="ui dividing header">Project members</h1>
+      
+              <h3> Angelo Naser (Author, Editor) </h3>
+              <p>
+                Born and raised in the village of Karkaria in the Nuba Mountains,
+                Angelo now lives and works in Khartoum. Angelo is a member of the Moro
+                Language Committee and is involved in the Moro literacy program. He
+                works at the United Bible Society in Khartoum.
+              </p>
+      
+              <h3> Peter Jenks (Editor) </h3>
+              <p>
+                <a href="http://linguistics.berkeley.edu/~jenks/home.html">Peter</a>{" "}
+                has studied the Moro language since 2005, much of his work in
+                collaboration with the{" "}
+                <a href="http://moro.ucsd.edu/">Moro Language Project</a>. He is an
+                Assistant Professor at UC Berkeley.
+              </p>
+      
+              <h3> Hannah Sande (Editor) </h3>
+              <p>
+                <a href="http://linguistics.berkeley.edu/~hsande/">Hannah</a> is a PhD
+                candidate in the UC Berkeley linguistics department. In addition to
+                her work on Moro, Hannah has worked extensively on Guebie, an
+                endangered Kru language spoken in the Ivory Coast.
+              </p>
+      
+              <h3> Marcus Ewert </h3>
+              <p>
+                <a href="http://www.marcushenryewert.com/#/">Marcus</a> is a software
+                developer in the Bay Area who has provided assistance with several
+                linguistic documentation projects.
+              </p>
+      
+              <h3> Juwon Kim </h3>
+              <p>
+                UC Berkeley Class of 2018, Juwon is a double major in linguistics and
+                computer science.
+              </p>
+      
+              <h3> Maytas Monsereenusorn </h3>
+              <p>
+                UC Berkeley Class of 2016, Maytas is a double major in computer
+                science and economics.
+              </p>
+      
+              {/* SoundCloud audio player */}
+              <iframe
+                width="100%"
+                height="166"
+                scrolling="no"
+                frameborder="no"
+                allow="autoplay"
+                src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/max-huang-382250223/df0%3Fsi%3D53f4787674544dc4b4430920d9dbd897&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+              ></iframe>
+            </div>
+          );
+        },
+      });
 
       var Glosspage = React.createClass(
              
