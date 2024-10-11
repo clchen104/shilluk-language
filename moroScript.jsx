@@ -939,6 +939,7 @@
         
               {/* CloudFront audio player */}
               <p>
+                test text
               <audio id="player" controls="" autoplay="" src="https://d2pkmi7mmss3bh.cloudfront.net/df0.wav"></audio>
               </p>
 
