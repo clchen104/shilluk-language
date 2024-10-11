@@ -945,6 +945,9 @@
                 allow="autoplay"
                 src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/max-huang-382250223/df0%3Fsi%3D53f4787674544dc4b4430920d9dbd897&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
               ></iframe>
+              {/* CloudFront audio player */}
+              <audio id="player" controls autoplay src="https://d2pkmi7mmss3bh.cloudfront.net/df0.wav">
+              </audio>
             </div>
           );
         },
